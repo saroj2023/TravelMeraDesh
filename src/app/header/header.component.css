@@ -1,0 +1,12 @@
+.rightmenu li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 10px;
+}
+
+.rightmenu li a{
+    color:#fff;
+    text-decoration: none;
+    font-size: 18px;
+
+}
